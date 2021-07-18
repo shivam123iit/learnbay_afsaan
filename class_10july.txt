@@ -1,0 +1,36 @@
+
+shiva@LAPTOP-BHDUBGCC MINGW64 /d/Class 1 Afsaan
+$ git config --global user.name "shivam123iit"
+
+shiva@LAPTOP-BHDUBGCC MINGW64 /d/Class 1 Afsaan
+$ git config --global user.email "shivam.asthana123@gmail.com"
+
+shiva@LAPTOP-BHDUBGCC MINGW64 /d/Class 1 Afsaan
+$ git config --global --list
+user.name=shivam123iit
+user.email=shivam.asthana123@gmail.com
+
+shiva@LAPTOP-BHDUBGCC MINGW64 /d/Class 1 Afsaan
+$ cd github
+
+shiva@LAPTOP-BHDUBGCC MINGW64 /d/Class 1 Afsaan/github
+$ cd date_27june
+
+shiva@LAPTOP-BHDUBGCC MINGW64 /d/Class 1 Afsaan/github/date_27june
+$ git clone https://github.com/shivam123iit/learnbay_afsaan.git
+Cloning into 'learnbay_afsaan'...
+warning: You appear to have cloned an empty repository.
+
+shiva@LAPTOP-BHDUBGCC MINGW64 /d/Class 1 Afsaan/github/date_27june
+$ ls
+learnbay_afsaan/
+
+shiva@LAPTOP-BHDUBGCC MINGW64 /d/Class 1 Afsaan/github/date_27june
+$
+
+
+
+
+
+
+#git config --global http.sslVerify false
