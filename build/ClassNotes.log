@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.9.9)  23 SEP 2022 18:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.9.9)  28 SEP 2022 13:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -895,7 +895,7 @@ File: l3backend-pdftex.def 2022-07-01 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count349
 \l__pdf_internal_box=\box121
 )
-No file ClassNotes.aux.
+(D:\Python Learnbay\git_repository\learnbay_afsaan\build\ClassNotes.aux)
 \openout1 = `ClassNotes.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
@@ -916,6 +916,7 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 9.
 LaTeX Font Info:    ... okay on input line 9.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 9.
 LaTeX Font Info:    ... okay on input line 9.
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -977,6 +978,8 @@ fg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 Package hyperref Info: Link coloring OFF on input line 9.
+ (D:\Python Learnbay\git_repository\learnbay_afsaan\build\ClassNotes.out)
+(D:\Python Learnbay\git_repository\learnbay_afsaan\build\ClassNotes.out)
 \@outlinefile=\write5
 \openout5 = `ClassNotes.out'.
 
@@ -1057,7 +1060,7 @@ Dictionary: translator-numbers-dictionary, Language: English
 heorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-No file ClassNotes.nav.
+(D:\Python Learnbay\git_repository\learnbay_afsaan\build\ClassNotes.nav)
 [1
 
 
@@ -1070,9 +1073,32 @@ Non-PDF special ignored!
 ]
 [4
 
-] [5
+]
+LaTeX Font Info:    Trying to load font information for U+msa on input line 75.
+
+ (C:\Users\shiva\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 75.
+
+
+(C:\Users\shiva\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on inp
+ut line 75.
+
+(C:\Users\shiva\AppData\Local\Programs\MiKTeX\tex/latex/sansmathaccent\ot1mathk
+erncmss.fd
+File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/ma
+thkerncmss.
+) [5
 
 ] [6
+
+] [7
+
+] [8
 
 ]
 \tf@nav=\write6
@@ -1086,32 +1112,29 @@ Non-PDF special ignored!
 
 
 (D:\Python Learnbay\git_repository\learnbay_afsaan\build\ClassNotes.aux)
-
-Package rerunfilecheck Warning: File `ClassNotes.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `ClassNotes.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
+Package rerunfilecheck Info: File `ClassNotes.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 21915 strings out of 478338
- 434611 string characters out of 2836701
- 695708 words of memory out of 3000000
- 39884 multiletter control sequences out of 15000+600000
- 471065 words of font info for 34 fonts, out of 8000000 for 9000
+ 22020 strings out of 478338
+ 437283 string characters out of 2836701
+ 696838 words of memory out of 3000000
+ 39959 multiletter control sequences out of 15000+600000
+ 474254 words of font info for 46 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,15n,122p,437b,562s stack positions out of 10000i,1000n,20000p,200000b,80000s
 <C:/Users/shiva/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
-cmss10.pfb><C:/Users/shiva/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
-fonts/cm/cmss12.pfb><C:/Users/shiva/AppData/Local/Programs/MiKTeX/fonts/type1/p
-ublic/amsfonts/cm/cmss8.pfb><C:/Users/shiva/AppData/Local/Programs/MiKTeX/fonts
-/type1/public/amsfonts/cm/cmssbx10.pfb>
+cmmi10.pfb><C:/Users/shiva/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
+fonts/cm/cmss10.pfb><C:/Users/shiva/AppData/Local/Programs/MiKTeX/fonts/type1/p
+ublic/amsfonts/cm/cmss12.pfb><C:/Users/shiva/AppData/Local/Programs/MiKTeX/font
+s/type1/public/amsfonts/cm/cmss8.pfb><C:/Users/shiva/AppData/Local/Programs/MiK
+TeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/shiva/AppData/Local/P
+rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi10.pfb><C:/Users/shiva/AppDa
+ta/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
 Output written on "D:\Python Learnbay\git_repository\learnbay_afsaan\build\Clas
-sNotes.pdf" (6 pages, 90369 bytes).
+sNotes.pdf" (8 pages, 132779 bytes).
 PDF statistics:
- 196 PDF objects out of 1000 (max. 8388607)
- 13 named destinations out of 1000 (max. 500000)
+ 265 PDF objects out of 1000 (max. 8388607)
+ 17 named destinations out of 1000 (max. 500000)
  43 words of extra memory for PDF output out of 10000 (max. 10000000)
 
