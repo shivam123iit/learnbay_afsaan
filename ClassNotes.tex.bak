@@ -124,8 +124,82 @@ $'finally', 'for', 'from', 'global', 'if', 'import', 'in', 'is', 'lambda',$\\
 $'nonlocal', 'not', 'or', 'pass', 'raise', 'return', 'try', 'while', 'with',$\\
 $'yield']$\\
 $>>$ You should never start and end variable with \_\_ 
+\vspace{0.5 cm}
 
+Expression and Statements:\\
+Expression: Gives Output $-->$ 10+20, 'Data'+'Science'\\
+Statement: No Output $-->$ a=20, for i in range(4)\\
 
 \end{frame}
+
+\begin{frame}[t]{Block and Indentations}
+"""\\
+Stat1\\
+Stat2\\
+Stat3\\
+Stat4\\
+"""
+"""\\
+Stat1\\
+Stat2\\
+if Condition:\\
+\hspace{1cm}Stat3\\
+\hspace{1cm}Stat4\\
+Stat5\\
+Stat6\\
+Stat7\\
+Stat8\\
+"""\\
+Standard we give 4 space which is one Tab
+\end{frame}
+
+\begin{frame}[t]{Comments in python}
+pi =3.14 \hspace{1cm} \# value of Pi \\
+r  =5 \hspace{1cm} \# radius of circle\\
+a  =pi by 4*r*r\hspace{1cm}     \# Area of circle\\
+\end{frame}
+
+\begin{frame}[t]{Data Types}
+
+\begin{columns}[t]
+\column{0.5\textwidth}
+\textbf{Basic Data types}\\
+Integers-\-$>$Without decimal point, \textbf{function type(a)}\\
+float-\-$>$With decimal point\\
+complex-\-$>$With imaginary part, a+ib\\
+string-\-$>$Without decimal point\\
+None\\
+Boolean\\
+\column{0.5\textwidth}
+\textbf{Derived Data types}\\
+List\\
+Tuple\\
+set\\
+dic\\
+range\\
+byte\\
+frozen set\\
+\end{columns}
+\end{frame}
+\begin{frame}[t]{Comparison Operator}
+More than a$>$b\\
+Less than a$<$b\\
+More than equal to a$>=$b\\
+Less than equal to a$<=$b\\
+Return is always True or False\\ 
+It can perform int to float\\
+It can perform str to str\\
+complex and None data type do not support\\ 
+\vspace{1Cm}
+Equality operator ==\\
+It gives True and False only
+\end{frame}
+
+\begin{frame}[t]{Logical Operators}
+
+\end{frame}
+
+
+
 
 \end{document}
